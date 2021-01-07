@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869720383511",
+    "project_id": "signin-c1157",
+    "storage_bucket": "signin-c1157.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869720383511:android:4359564e7becdc8632fc52",
+        "android_client_info": {
+          "package_name": "com.yasir.signingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869720383511-bshs103tmh9l5laaf68flclm7jkpjr9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasir.signingoogle",
+            "certificate_hash": "a1955fe1639ae3c85784a8a9e418a9569545914b"
+          }
+        },
+        {
+          "client_id": "869720383511-i6g5v8pke66a1uqvg5ul5hop7bma7ibk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJqD0ghC83zuYWL_HANZE-tr_BCH3OGsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869720383511-i6g5v8pke66a1uqvg5ul5hop7bma7ibk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
